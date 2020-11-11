@@ -312,7 +312,7 @@ http://www.tooplate.com/view/2106-soft-landing
 
   #home {
     background: url('../images/home-bg.jpg') no-repeat center center;
-    background-size: cover;
+    background-size: auto;
     vertical-align: middle;
     display: -webkit-box;
     display: -webkit-flex;
@@ -322,7 +322,7 @@ http://www.tooplate.com/view/2106-soft-landing
     -webkit-align-items: center;
     -ms-flex-align: center;
     align-items: center;
-    min-height: 100vh;
+    min-height: 50vh;
     position: relative;
     padding-top: 12em;
     text-align: center;
